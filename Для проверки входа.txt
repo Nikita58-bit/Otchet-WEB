@@ -1,0 +1,6 @@
+admin
+Логин:admin
+Пароль:passwort
+user
+Логин:user
+Пароль:passwort
